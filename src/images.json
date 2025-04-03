@@ -1,0 +1,23 @@
+[
+  { "name": "2023-001", "year": "2023", "dimensions": "16x20\"" },
+  { "name": "2023-002", "year": "2023", "dimensions": "18x24\"" },
+  { "name": "2023-003", "year": "2023", "dimensions": "18x24\"" },
+  { "name": "2023-004", "year": "2023", "dimensions": "18x24\"" },
+  { "name": "2023-005", "year": "2023", "dimensions": "18x14\"" },
+  { "name": "2023-006", "year": "2023", "dimensions": "9x12\"" },
+  { "name": "2023-007", "year": "2023", "dimensions": "11x14\"" },
+  { "name": "2023-008", "year": "2023", "dimensions": "12x16\"" },
+  { "name": "2023-009", "year": "2023", "dimensions": "16x20\"" },
+  { "name": "2023-010", "year": "2023", "dimensions": "18x24\"" },
+  { "name": "2023-011", "year": "2023", "dimensions": "18x24\"" },
+  { "name": "2023-012", "year": "2023", "dimensions": "14x18\"" },
+  { "name": "2023-013", "year": "2023", "dimensions": "14x18\"" },
+  { "name": "2024-001", "year": "2024", "dimensions": "18x24\"" },
+  { "name": "2024-002", "year": "2024", "dimensions": "18x24\"" },
+  { "name": "2024-003", "year": "2024", "dimensions": "18x24\"" },
+  { "name": "2024-004", "year": "2024", "dimensions": "18x24\"" },
+  { "name": "2024-005", "year": "2024", "dimensions": "9x12\"" },
+  { "name": "2024-006", "year": "2024", "dimensions": "9x12\"" },
+  { "name": "2024-007", "year": "2024", "dimensions": "30x40\"" },
+  { "name": "2024-008", "year": "2024", "dimensions": "24x36\"" }
+]

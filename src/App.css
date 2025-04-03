@@ -1,0 +1,49 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+.container {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+header {
+  padding: 20px 20px 0;
+}
+h1 {
+  margin: 0;
+  font-size: 1.5em;
+}
+h2 {
+  font-weight: 700;
+  margin: 0;
+  font-size: 3em;
+}
+.body {
+  flex: 1;
+  overflow: auto;
+  padding: 20px;
+}
+.imageWrapper {
+  margin-bottom: 60px;
+}
+.image {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+}
+.imageCopy {
+  padding: 12px 0;
+}
+.imageCopy p {
+  margin: 0;
+}
+.imageCopy .year {
+  font-weight: 700;
+}
+.imageCopy .dimensions {
+  font-style: italic;
+  font-size: 14px;
+}
